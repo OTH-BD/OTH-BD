@@ -58,17 +58,7 @@ You can contact me through the following channels:
 - **Cloud Platforms**:  
   ![AWS](https://img.shields.io/badge/AWS-Beginner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
   
-
-## 🌟 Featured Projects  
-
-### 1. **Big Data Processing Pipeline**  
-- **Description**: Built a pipeline for handling large-scale data using **Hadoop** and **Spark**.  
-- **Skills**: Big Data, Distributed Computing  
-
-### 2. **Cloud-Native Microservices**  
-- **Description**: Developed a microservices-based architecture using **Spring Boot** and deployed on **AWS ECS**.  
-- **Skills**: Spring Boot, AWS, Docker  
-
+---
 
 ## ⚡ Fun Fact  
 
