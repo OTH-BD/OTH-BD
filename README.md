@@ -63,8 +63,8 @@
 You can contact me through the following channels:
 
 - **Email**: 📧 othmane.boudali01@gmail.com  
-- **LinkedIn**: 🔗 [Othmane Boudali]([https://linkedin.com/in/othmane-boudali](https://www.linkedin.com/in/othmane-boudali-80344a21a/))  
-- **GitHub**: 🐙 [OthmaneBoudali]([https://github.com/your-username](https://github.com/OTH-BD))  
+- **LinkedIn**: 🔗 https://www.linkedin.com/in/othmane-boudali-80344a21a
+- **GitHub**: 🐙 https://github.com/OTH-BD
 
 ---
 
