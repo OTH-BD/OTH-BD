@@ -65,7 +65,7 @@ You can contact me through the following channels:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTH-BD)
-[![Instagram](https://your-image-host/instagram-icon.png)](https://www.instagram.com/othmaneboudali)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmaneboudali)
 
 
 ---
