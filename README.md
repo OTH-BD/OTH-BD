@@ -1,34 +1,27 @@
 # 👋 Hello, I’m OTHMANE BOUDALI!  
 
 ## 🚀 About Me  
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=for-the-badge&logo=smugmug&logoColor=white" alt="Name"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Age-24%20Years-%23ff5733?style=for-the-badge&logo=calendar&logoColor=white" alt="Age"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Location-Morocco-%234caf50?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Student-Master%27s%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Student"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=for-the-badge&logo=smugmug&logoColor=white" alt="Name"/>  
+  <img src="https://img.shields.io/badge/Age-24%20Years-%23ff5733?style=for-the-badge&logo=calendar&logoColor=white" alt="Age"/>  
+  <img src="https://img.shields.io/badge/Location-Morocco-%234caf50?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>  
+  <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
+</p>
 
-### 🛠️ What I Do:
-- 🎓 **Master's Student** at **ENSET Mohammedia**, specializing in:  
-  - 🖥️ **Software Engineering**  
-  - 📊 **Big Data**  
-  - ☁️ **Cloud Computing**  
+### 🛠️ My Journey:
+- 🎓 **Master's Student** at **ENSET Mohammedia**  
+  - 📊 Specializing in **Big Data** and **Cloud Computing**.  
+- 🌟 Passionate about technology, innovation, and solving real-world problems.  
+- 🚀 Always exploring new tools, frameworks, and platforms to enhance my skills.  
+- ✨ Fun Fact: I enjoy learning **AI frameworks** and contributing to open-source projects.  
 
-- 🌟 Passionate about **solving problems**, **innovating** with technology, and creating impactful solutions.  
-- 🚀 Constantly exploring new tools like **AI frameworks**, **cloud platforms**, and **open-source projects**.  
-- ✨ Fun Fact: I enjoy experimenting with creative web development ideas.  
+---
+
+### 🌟 Hobbies & Interests:
+- ⚡ **Exploring Emerging Technologies**  
+- 🌍 **Collaborating on Open-Source Projects**  
+- 📚 **Continuous Learning**  
+- 🕹️ **Experimenting with Creative Web and Cloud Ideas**
 
 
 ---
