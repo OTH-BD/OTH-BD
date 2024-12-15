@@ -2,12 +2,20 @@
 
 ## 🚀 About Me  
 
-- 🎓 **Othmane Boudali**, 24 years old  
-- 📖 First-year Master's student at **ENSET Mohammedia**  
-- Specializing in **Software Engineering**, **Big Data**, and **Cloud Computing**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=flat-square&logo=smugmug&logoColor=white" alt="Name"/>
+  <img src="https://img.shields.io/badge/Age-24%20Years-%23ff5733?style=flat-square&logo=google%20maps&logoColor=white" alt="Age"/>
+  <img src="https://img.shields.io/badge/Location-Morocco-%234caf50?style=flat-square&logo=mapbox&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=flat-square&logo=google%20classroom&logoColor=white" alt="Education"/>
+</p>
+
+- 🎓 **Master's Student** at **ENSET Mohammedia**  
+  - **Specialization**: Software Engineering, Big Data, and Cloud Computing.  
+- 🌟 Passionate about **technology**, **problem-solving**, and building innovative solutions.  
 - 🌍 Based in **Morocco** 🇲🇦  
-- 💡 Passionate about technology, problem-solving, and innovation.  
-- ✨ Fun fact: I love exploring new tools and frameworks!
+- 🚀 Always learning and exploring new tools, frameworks, and methodologies.  
+- ✨ Fun Fact: I enjoy contributing to open-source projects and experimenting with AI and cloud technologies.  
+
 ---
 ---
 ## 🌐 How to Reach Me  
