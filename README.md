@@ -1,37 +1,22 @@
 # 👋 Hello, I’m OTHMANE BOUDALI!  
 
-🎓 **24 years old** and currently pursuing a Master's degree in **Software Engineering, Big Data, and Cloud Computing** at **ENSET Mohammedia**.  
-💻 I am passionate about building innovative solutions and exploring cutting-edge technologies in software development.  
+## 🚀 About Me  
 
+- 🎓 **Othmane Boudali**, 24 years old  
+- 📖 First-year Master's student at **ENSET Mohammedia**  
+  - Specializing in **Software Engineering**, **Big Data**, and **Cloud Computing**  
+- 🌍 Based in **Morocco** 🇲🇦  
+- 💡 Passionate about technology, problem-solving, and innovation.  
+- ✨ Fun fact: I love exploring new tools and frameworks!
 ---
 ---
-
 ## 🌐 How to Reach Me  
-
 You can contact me through the following channels:
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTH-BD)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmaneboudali)
 
-
----
-
-## 🚀 About Me  
-
-- 🎯 **Current Focus**:  
-  I'm working on mastering the technologies behind **Big Data pipelines**, **Cloud architectures**, and **Software Development best practices**.  
-
-- 📚 **What I’m Learning**:  
-  - Advanced **Java programming**  
-  - **DevOps tools** (e.g., Docker, Kubernetes, CI/CD)  
-  - Big Data tools like **Hadoop**, **Spark**, and **Kafka**  
-
-- 🌟 **Personal Goals**:  
-  - Build scalable, cloud-native applications  
-  - Collaborate on open-source projects  
-  - Improve my skills in **machine learning** and **data engineering**  
 
 ---
 
