@@ -35,28 +35,36 @@ You can contact me through the following channels:
 
 ---
 
-## 💡 Skills  
+## 🚀 Skills
 
-### **Languages**  
-- ![Java](https://img.shields.io/badge/Java-Expert-orange?style=flat-square&logo=java&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-Advanced-yellow?style=flat-square&logo=postgresql&logoColor=white)  
+### 🌐 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
-### **Frontend & Backend**  
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-Proficient-orange?style=flat-square&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-Proficient-blue?style=flat-square&logo=css3&logoColor=white)  
+### 🛠️ Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-- **Backend**:  
-  ![Spring Boot](https://img.shields.io/badge/Spring--Boot-Intermediate-brightgreen?style=flat-square&logo=spring&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/Node.js-Beginner-lightgreen?style=flat-square&logo=node.js&logoColor=white)  
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
-### **Tools & Platforms**  
-- **DevOps**:  
-  ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat-square&logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-skyblue?style=flat-square&logo=kubernetes&logoColor=white)  
-- **Cloud Platforms**:  
-  ![AWS](https://img.shields.io/badge/AWS-Beginner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
   
 ---
 
