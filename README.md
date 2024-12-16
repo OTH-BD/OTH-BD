@@ -1,78 +1,39 @@
-# 👋 Hello, I’m OTHMANE BOUDALI!  
+# Hi 👋, I'm OTHMANE BOUDALI
 
-## 🚀 About Me  
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=for-the-badge&logo=smugmug&logoColor=white" alt="Name"/>  
-  <img src="https://img.shields.io/badge/Age-24%20Years-%23ff5733?style=for-the-badge&logo=calendar&logoColor=white" alt="Age"/>  
-  <img src="https://img.shields.io/badge/Location-Morocco-%234caf50?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>  
-  <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
-</p>
+**A passionate full-stack developer.**
 
-### 🛠️ My Journey:
-- 🎓 **Master's Student** at **ENSET Mohammedia**  
-  - 📊 Specializing in **Big Data** and **Cloud Computing**.  
-- 🌟 Passionate about technology, innovation, and solving real-world problems.  
-- 🚀 Always exploring new tools, frameworks, and platforms to enhance my skills.  
-- ✨ Fun Fact: I enjoy learning **AI frameworks** and contributing to open-source projects.  
+- 🎯 I'm currently working on [Ping_Pong Game](#)
+- 🌱 I'm currently learning **JAVA**, **Spring_boot**, **ANGULAR**
+- ✉️ Ask me about **JAVA**, **JavaScript**
+- 💬 How to reach me: [othmane.boudali01@gmail.com](mailto:othmane.boudali01@gmail.com)
 
 ---
 
-### 🌟 Hobbies & Interests:
-- ⚡ **Exploring Emerging Technologies**  
-- 🌍 **Collaborating on Open-Source Projects**  
-- 📚 **Continuous Learning**  
-- 🕹️ **Experimenting with Creative Web and Cloud Ideas**
-
-
----
----
-## 🌐 How to Reach Me  
-
-You can contact me through the following channels:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTH-BD)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmaneboudali)
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a)
 
 ---
 
-## 🚀 Skills
-
-### 🌐 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🛠️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-  
----
-
-## ⚡ Fun Fact  
-
-> "I spend more time debugging than writing new code, but that’s where the real magic happens!"  
+### Languages and Tools:
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-✨ Thanks for visiting my profile! Let’s connect and build something great together. 😊  
+![Code Image](https://example.com/code-image-placeholder.png)
+
+---
+
+### ✨ *Let's build something amazing together!*
+
