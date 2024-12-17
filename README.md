@@ -13,12 +13,10 @@
   - 📊 Specializing in **Big Data** and **Cloud Computing**.  
 - 🌟 Passionate about technology, innovation, and solving real-world problems.  
 - 🚀 Always exploring new tools, frameworks, and platforms to enhance my skills.  
-- ✨ Fun Fact: I enjoy learning **AI frameworks** and contributing to open-source projects.  
 
----
+
 ---
 ## 🌐 How to Reach Me  
-
 You can contact me through the following channels:
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
@@ -26,7 +24,6 @@ You can contact me through the following channels:
 [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
 
 ---
-
 ## 🚀 Skills
 
 ### Languages and Tools:
@@ -48,9 +45,6 @@ You can contact me through the following channels:
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48px" height="48px"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="48px" height="48px"/>
 </p>
-
-
-
   
 ---
 
