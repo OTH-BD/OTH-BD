@@ -30,9 +30,9 @@
 
 You can contact me through the following channels:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTH-BD)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmaneboudali)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
+[![GitHub](https://img.icons8.com/color/48/000000/gmail.png)](https://github.com/OTH-BD)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/othmaneboudali)
 
 ---
 
@@ -41,16 +41,18 @@ You can contact me through the following channels:
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/>
