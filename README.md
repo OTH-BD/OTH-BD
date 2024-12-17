@@ -19,9 +19,9 @@
 ## 🌐 How to Reach Me  
 You can contact me through the following channels:
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/othmane-boudali-80344a21a )</br>
-[![Github](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/OTH-BD)</br>
-[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:othmane.boudali01@gmail.com)</br>
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/othmane-boudali-80344a21a )&nbsp;
+[![Github](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/OTH-BD)&nbsp;
+[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:othmane.boudali01@gmail.com)&nbsp;
 [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
 
 
