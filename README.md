@@ -16,22 +16,13 @@
 - ✨ Fun Fact: I enjoy learning **AI frameworks** and contributing to open-source projects.  
 
 ---
-
-### 🌟 Hobbies & Interests:
-- ⚡ **Exploring Emerging Technologies**  
-- 🌍 **Collaborating on Open-Source Projects**  
-- 📚 **Continuous Learning**  
-- 🕹️ **Experimenting with Creative Web and Cloud Ideas**
-
-
----
 ---
 ## 🌐 How to Reach Me  
 
 You can contact me through the following channels:
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
-[![Github](https://img.icons8.com/?size=75&id=LoL4bFzqmAa0&format=png&color=000000)](https://github.com/OTH-BD)
+[![Github](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/OTH-BD)
 [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
 
 ---
