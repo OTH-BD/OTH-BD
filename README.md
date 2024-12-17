@@ -32,7 +32,7 @@ You can contact me through the following channels:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
 [![GitHub](https://img.icons8.com/color/48/000000/gmail.png)](https://github.com/OTH-BD)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/othmaneboudali)
+[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
 
 ---
 
