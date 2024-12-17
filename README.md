@@ -41,22 +41,23 @@ You can contact me through the following channels:
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48px" height="48px"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="48px" height="48px"/>
 </p>
+
 
 
   
