@@ -10,28 +10,32 @@
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/othmane-boudali-80344a21a)
 
 ---
 
 ### Languages and Tools:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/>
+</p>
 
 ---
 
-![Code Image](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055640.png" alt="Developer" width="300px"/>
+</p>
 
 ---
 
