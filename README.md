@@ -43,9 +43,9 @@ You can contact me through the following channels:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="Spring Boot"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48px"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js"/>
