@@ -1,78 +1,42 @@
-# 👋 Hello, I’m OTHMANE BOUDALI!  
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: left;">
 
-## 🚀 About Me  
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=for-the-badge&logo=smugmug&logoColor=white" alt="Name"/>  
-  <img src="https://img.shields.io/badge/Age-24%20Years-%23ff5733?style=for-the-badge&logo=calendar&logoColor=white" alt="Age"/>  
-  <img src="https://img.shields.io/badge/Location-Morocco-%234caf50?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>  
-  <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
-</p>
+# Hi 👋, I'm Mouad Ajmani
 
-### 🛠️ My Journey:
-- 🎓 **Master's Student** at **ENSET Mohammedia**  
-  - 📊 Specializing in **Big Data** and **Cloud Computing**.  
-- 🌟 Passionate about technology, innovation, and solving real-world problems.  
-- 🚀 Always exploring new tools, frameworks, and platforms to enhance my skills.  
-- ✨ Fun Fact: I enjoy learning **AI frameworks** and contributing to open-source projects.  
+**A passionate full-stack developer.**
+
+- 🎯 I'm currently working on [Ping_Pong Game](#)
+- 🌱 I'm currently learning **Python**, **Django**
+- ✉️ Ask me about **C, C++**, **Docker**, **JavaScript**
+- 💬 How to reach me: [mouadajmani6@gmail.com](mailto:mouadajmani6@gmail.com)
 
 ---
 
-### 🌟 Hobbies & Interests:
-- ⚡ **Exploring Emerging Technologies**  
-- 🌍 **Collaborating on Open-Source Projects**  
-- 📚 **Continuous Learning**  
-- 🕹️ **Experimenting with Creative Web and Cloud Ideas**
+### Connect with me:
 
-
----
----
-## 🌐 How to Reach Me  
-
-You can contact me through the following channels:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTH-BD)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmaneboudali)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com)
 
 ---
 
-## 🚀 Skills
-
-### 🌐 Programming Languages
+### Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/>
 </p>
 
-### 🛠️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-  
----
-
-## ⚡ Fun Fact  
-
-> "I spend more time debugging than writing new code, but that’s where the real magic happens!"  
-
----
-
-✨ Thanks for visiting my profile! Let’s connect and build something great together. 😊  
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Developer" width="400px" style="margin-left: auto; margin-right: 0;"/>
+  </div>
+</div>
