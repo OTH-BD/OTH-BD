@@ -1,16 +1,21 @@
-# Hi 👋, I'm OTHMANE BOUDALI
+<table>
+  <tr>
+    <td>
+      
+# Hi 👋, I'm Mouad Ajmani
 
 **A passionate full-stack developer.**
 
 - 🎯 I'm currently working on [Ping_Pong Game](#)
-- 🌱 I'm currently learning **JAVA**, **Spring_boot**, **ANGULAR**
-- ✉️ Ask me about **JAVA**, **JavaScript**
-- 💬 How to reach me: [othmane.boudali01@gmail.com](mailto:othmane.boudali01@gmail.com)
+- 🌱 I'm currently learning **Python**, **Django**
+- ✉️ Ask me about **C, C++**, **Docker**, **JavaScript**
+- 💬 How to reach me: [mouadajmani6@gmail.com](mailto:mouadajmani6@gmail.com)
 
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/othmane-boudali-80344a21a)
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com)
 
 ---
 
@@ -31,13 +36,9 @@
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Developer" width="300px"/>
-</p>
-
----
-
-### ✨ *Let's build something amazing together!*
-
+    </td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055640.png" alt="Developer" width="400px"/>
+    </td>
+  </tr>
+</table>
