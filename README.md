@@ -10,13 +10,12 @@
 - ✉️ Ask me about **C, C++**, **Docker**, **JavaScript**
 - 💬 How to reach me: [mouadajmani6@gmail.com](mailto:mouadajmani6@gmail.com)
 
----
+
 
 ### Connect with me:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com)
 
----
 
 ### Languages and Tools:
 <p align="left">
