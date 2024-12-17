@@ -21,8 +21,9 @@ You can contact me through the following channels:
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/othmane-boudali-80344a21a )
 [![Github](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/OTH-BD)
-[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:othmane.boudali01@gmail.com)
+[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
+
 
 
 
