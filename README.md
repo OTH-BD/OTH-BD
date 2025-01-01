@@ -1,4 +1,4 @@
-# 👋 Hello, I’m OTHMANE BOUDALI!  
+<h1 align="center"> Hello 👋 ,I’m OTHMANE BOUDALI!   </h1>
 
 ## 🚀 About Me  
 <p align="center">
