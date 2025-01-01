@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
 </p>
 
-<h4 align="center"> A passionate fullstack developer from Java/Spring/Angular </h4>
+<h2 align="center"> A passionate fullstack developer from Java/Spring/Angular </h2>
 
 🔭 I’m currently working on Spring boot Rest API Angular
 
