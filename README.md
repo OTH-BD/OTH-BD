@@ -8,11 +8,15 @@
   <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
 </p>
 
-### 🛠️ My Journey:
-- 🎓 **Master's Student** at **ENSET Mohammedia**  
-  - 📊 Specializing in **Big Data** and **Cloud Computing**.  
-- 🌟 Passionate about technology, innovation, and solving real-world problems.  
-- 🚀 Always exploring new tools, frameworks, and platforms to enhance my skills.  
+### 🛠️:
+
+🔭 I’m currently working on Spring boot Rest API Angular
+
+🌱 I’m currently learning Spring boot / MicroService / WebService / Docker/ Testing / Angular 
+
+👯 I’m looking to collaborate on Simplon Magherb
+
+💬 Ask me about Java/JEE/SPRING_BOOT/ANGULAR
 
 
 ---
