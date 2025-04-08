@@ -50,7 +50,7 @@ You can contact me through the following channels:
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="48px" height="48px"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48px" height="48px"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48px" height="48px"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="48px" height="48px"/>
+ 
 </p>
   
 ---
