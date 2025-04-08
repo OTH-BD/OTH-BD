@@ -3,8 +3,7 @@
 ## 🚀 About Me  
 <p align="center">
   <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=for-the-badge&logo=smugmug&logoColor=white" alt="Name"/>  
-  <img src="https://img.shields.io/badge/Age-24%20Years-%23ff5733?style=for-the-badge&logo=calendar&logoColor=white" alt="Age"/>  
-  <img src="https://img.shields.io/badge/Location-Morocco-%234caf50?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>  
+  
   <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
 </p>
 
