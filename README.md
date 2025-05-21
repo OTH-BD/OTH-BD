@@ -13,7 +13,6 @@
 
 🌱 I’m currently learning Spring boot / MicroService / WebService / Docker/ Testing / Angular 
 
-👯 I’m looking to collaborate on Simplon Magherb
 
 💬 Ask me about Java/JEE/SPRING_BOOT/ANGULAR
 
