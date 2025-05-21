@@ -1,11 +1,5 @@
 <h1 align="center"> Hello 👋 ,I’m OTHMANE BOUDALI!   </h1>
 
-## 🚀 About Me  
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-Othmane%20Boudali-%2300a8ff?style=for-the-badge&logo=smugmug&logoColor=white" alt="Name"/>  
-  
-  <img src="https://img.shields.io/badge/Student-Master's%20in%20Software%20Engineering-%237e57c2?style=for-the-badge&logo=google%20classroom&logoColor=white" alt="Education"/>  
-</p>
 
 <h2 align="center"> A passionate fullstack developer from Java/Spring/Angular </h2>
 
