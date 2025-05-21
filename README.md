@@ -3,11 +3,13 @@
 
 <h2 align="center">💼 Full Stack Developer – Java & Angular </h2>
 
-🔭 I’m currently learning Spring boot / MicroService / WebService / Docker/ Testing / Angular
-
+ > 🔭 I’m currently learning Spring boot / MicroService / WebService / Docker/ Testing / Angular
+ ---
 
 💬 Ask me about Java/JEE/SPRING_BOOT/ANGULAR
+
 ---
+
 ## 🌐 How to Reach Me  
 You can contact me through the following channels:
 
@@ -16,6 +18,7 @@ You can contact me through the following channels:
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:othmane.boudali01@gmail.com)&nbsp;
 [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/othmaneboudali)
 ---
+
 ## 🚀 Skills
 ### Languages and Tools:
 
