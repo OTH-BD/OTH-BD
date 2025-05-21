@@ -1,9 +1,9 @@
 <h1 align="center"> Hello 👋 ,I’m OTHMANE BOUDALI!   </h1>
 
 
-<h2 align="center"> A passionate fullstack developer from Java/Spring/Angular </h2>
+<h2 align="center">💼 Full Stack Developer – Java & Angular </h2>
 
-🔭 I’m currently working on Spring boot Rest API Angular
+🔭 I’m currently working on Spring boot, Micro-Service, Web-Service Rest API &  Angular
 
 🌱 I’m currently learning Spring boot / MicroService / WebService / Docker/ Testing / Angular 
 
