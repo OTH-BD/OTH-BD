@@ -6,7 +6,7 @@
 
 ---
 
-💬 Ask me about Java/JEE/SPRING_BOOT/ANGULAR
+> 💬 Ask me about JAVA/JEE/SPRING_BOOT/ANGULAR
 
 ---
 
