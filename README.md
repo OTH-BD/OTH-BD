@@ -48,10 +48,23 @@ You can contact me through the following channels:
   
 ---
 
-## ⚡ Fun Fact  
+## 📊 GitHub Stats
 
-> "I spend more time debugging than writing new code, but that’s where the real magic happens!"  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OTH-BD&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH-BD&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
+
+## ⚡ Fun Fact
+
+> "Good code is not written, it is thought."
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="coding gif" />
+</p>
 
 ---
 
-✨ Thanks for visiting my profile! Let’s connect and build something great together. 😊  
+<p align="center">
+  Thanks for stopping by! 🚀 Let’s connect and build something great together.  
+</p>
