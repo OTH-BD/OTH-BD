@@ -12,7 +12,16 @@
 
 ---
 
-> 💬 Ask me about JAVA/JEE/SPRING_BOOT/MICROSERVICES/ANGULAR
+| <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=750&size=28&pause=1500&color=4CD1F7&width=230&lines=Stack+Technique" alt="Stack Technique" /> | 
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="26" />
+  <img src="https://img.shields.io/badge/JEE-0052CC?style=flat&logo=oracle&logoColor=white" alt="JEE" height="26" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" height="26" />
+  <img src="https://img.shields.io/badge/Microservices-00BCD4?style=flat" alt="Microservices" height="26" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" height="26" />
+</p> 
+
 
 ---
 
